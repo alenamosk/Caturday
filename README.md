@@ -2,7 +2,7 @@
 
 Caturday is a project that simulates a social media platform, but specifically for discovering pictures of cats. The app fetches all cat breed information, including images and descriptions from an API and allows users to browse and like their favorite cat pictures.
 
-<img src="./assets/screenshot.jpeg" style="width: 100px; height: 200px;">
+<img src="./assets/screenshot.jpeg" style="width: 300px; height: 500px;">
 
 ## Project Status
 
